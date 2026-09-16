@@ -1,4 +1,4 @@
-# Pricing & Customer Revenue Analysis Using Statistical Inference
+# Impact of Discounts and Customer Type on Revenue using Statistical Analysis 
 
 ## Business Context
 Understanding how pricing strategies and customer behavior influence revenue is
